@@ -1,0 +1,14 @@
+{
+    "workspace.library": [
+        "/home/rat/.config/nvim",
+        "/home/rat/.local/share/nvim/site",
+        "/home/rat/.local/share/nvim/site/pack/packer/start/nvim-lsp-installer",
+        "/home/rat/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
+        "/home/rat/.local/share/nvim/site/pack/packer/start/nvim-tree.lua",
+        "/home/rat/.local/share/nvim/site/pack/packer/start/nvim-web-devicons",
+        "/home/rat/.local/share/nvim/site/pack/packer/start/packer.nvim",
+        "/usr/local/nvim/share/nvim/runtime",
+        "/usr/local/nvim/lib/nvim",
+        "${3rd}/luassert/library"
+    ]
+}
